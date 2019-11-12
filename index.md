@@ -1,0 +1,1 @@
+# Lean startup - How does the lean startup methodology aim to increase the success of a startup? - A brief explanation
