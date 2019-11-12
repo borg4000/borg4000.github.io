@@ -72,7 +72,29 @@ Due to the limited scope, this paper aimed to briefly present the main idea and 
 
 # Sources
 
+Blank, S. (2013). Why the Lean Start-Up Changes Everything. Retrieved 12.09.2019 from [https://hbr.org/2013/05/why-the-lean-start-up-changes-everything.](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)
 
+Bloomberg (2019). Dropbox Inc. Company Info. Retrieved 06.10.2019 from [https://www.bloomberg.com/quote/DBX:US.](https://www.bloomberg.com/quote/DBX:US)
+
+CB Insights (2018). The Top 20 Reasons Startups Fail. Retrieved 30.09.2019 from [https://www.cbinsights.com/research/startup-failure-reasons-top/.](https://www.cbinsights.com/research/startup-failure-reasons-top/) 
+
+Chwolka, A., Raith, M. (2011). The value of business planning before start-up – A deci-sion-theoretical perspective. Retrieved 03.10.2019 from [http://www.dl.edi-info.ir/The%20value%20of%20business%20planning%20before%20start-up.pdf.](http://www.dl.edi-info.ir/The%20value%20of%20business%20planning%20before%20start-up.pdf) 
+
+Dealroom (2019). 2018 full year report. Retrieved 02.10.2019 from [https://blog.deal-room.co/wp-content/uploads/2019/02/Dealroom-2018-vFINAL.pdf.](https://blog.deal-room.co/wp-content/uploads/2019/02/Dealroom-2018-vFINAL.pdf) 
+
+Griffith, E. (2014). Why startups fail, according to their founders. Retrieved 30.09.2019 from [https://fortune.com/2014/09/25/why-startups-fail-according-to-their-founders/.](https://fortune.com/2014/09/25/why-startups-fail-according-to-their-founders/) 
+
+Leibson, H. (2018). How To Achieve Product-Market Fit. Retrieved 30.09.2019 from [https://www.forbes.com/sites/hayleyleibson/2018/01/18/how-to-achieve-product-market-fit/#53a4b1a4476b.](https://www.forbes.com/sites/hayleyleibson/2018/01/18/how-to-achieve-product-market-fit/#53a4b1a4476b) 
+
+Mueller, R., Thoring, K. (2012). Design thinking vs. Lean startup: a comparison of two user driven innovation strategies. Leading Innovation through design, 151-164.
+
+Nobel, C. (2011). Teaching a ‘Lean Startup’ Strategy. Retrieved 30.09.2019 from [https://hbswk.hbs.edu/item/teaching-a-lean-startup-strategy.](https://hbswk.hbs.edu/item/teaching-a-lean-startup-strategy) 
+
+Patel, N. (2015). 90% Of Startups Fail: Here's What You Need To Know About The 10%. Retrieved 02.10.2019 from [https://www.forbes.com/sites/neilpatel/2015/01/16/90-of-startups-will-fail-heres-what-you-need-to-know-about-the-10/#1028a56a6679.](https://www.forbes.com/sites/neilpatel/2015/01/16/90-of-startups-will-fail-heres-what-you-need-to-know-about-the-10/#1028a56a6679) 
+
+Reynolds, P. D. (2016). Start-up Actions and Outcomes: What Entrepreneurs Do to Reach Profitability. Foundations and Trends in Entrepreneurship.12 (6), 443-559. DOI: 10.1561/0300000071.
+
+## Concluding remarks
 
 My professor's website:
 
