@@ -11,6 +11,9 @@ In order to increase the success of startups, Eric Ries has developed the lean s
 
 To derive an answer, the paper is structured in four parts: After the introductory chapter, the second part explains startups in general and common reasons for failure. The third chapter can be characterized as the main part as it is about the lean startup methodology and its approach to reduce the risks of starting a company. Finally, the fourth chapter summarizes the results and assesses the research.
 
+![Leanoffice](Pic 01.jpg)
+
+
 ## Startup
 
 ### What is a startup?
@@ -66,6 +69,10 @@ Dropbox is a company founded in Silicon Valley and offers an easy-to-use cloud-b
 To sum up, the lean startup methodology can be described as an agile approach which aims to accelerate the product development and release. Based on customer feedback at an early stage, the market demand is tested and the product or whole company strategy can be adjusted accordingly. The lean startup idea primary addresses the most common reason for failure of startups which is the lack of market demand. By using instruments such as the Build-Measure-Learn feedback loop and connected tools like the MVP, a lean startup tries to improve the product-market-fit and consequently the success of the company.
 
 Due to the limited scope, this paper aimed to briefly present the main idea and key principles of the lean startup methodology. An extensive analysis could cover not only the key principles themselves but also the operationalization as well as the scope of application, for example regarding various industries, in a critical and more detailed way.
+
+# Sources
+
+
 
 My professor's website:
 
