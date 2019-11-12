@@ -21,7 +21,7 @@ According to the EU Startup Monitor, there is not only one common definition of 
 
 The process of starting a company can be clustered in four phases: The first phase covers the intention to start a company. Secondly, a business concept is developed. The third phase is about assembling resources and creating a company. In the final phase, the company starts the exchange with the market (Van Gelderen et al., 2004, p.366). Generally, company founders often invest a lot of time in creating a business plan in the initial phase. The plan usually entails a (financial) forecast for the upcoming years with the incentive to appear attractive to potential investors. After investors could be convinced and they provide money, founders begin to develop the product and optimize it for the market launch (Blank, S., 2013).
 
-### and why many of them fail.
+### ... and why many of them fail.
 
 According to CB Insights’ report which is based on an analysis of 101 startup post mortems, 42% startups fail because their product does not solve a (large enough) market problem. Companies often invest a lot in producing a product without having enough customers who are willing to buy it. Figure 2 illustrates the top ten reasons why startups fail. Some of them can be linked again with the most popular failure of market demand (CB Insights, 2018, pp.4, 5, 25; Griffith, E., 2014; Patel, N., 2015; Viki, T., 2017).
 
@@ -67,6 +67,6 @@ To sum up, the lean startup methodology can be described as an agile approach wh
 
 Due to the limited scope, this paper aimed to briefly present the main idea and key principles of the lean startup methodology. An extensive analysis could cover not only the key principles themselves but also the operationalization as well as the scope of application, for example regarding various industries, in a critical and more detailed way.
 
-
+My professor's website:
 
 [Ulrich Anders' Website](https://ulrich-anders.eu/) 
