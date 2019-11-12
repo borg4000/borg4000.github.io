@@ -57,6 +57,7 @@ According to Chwolka and Raith, the chance of a startups’ success increases wi
 
 Ries also considers plans and basic assumptions as the main and thereby as the riskiest elements of a startup. This is why a company’s hypotheses should be tested as early and regularly as possible. This paper focuses on instruments that reduce the risk of the most common reason for failure: a lack of market need (Ries, E., 2011, pp.81-82, 86).
 
+
 *Build-Measure-Learn feedback loop*
 
 Ries identifies the Build-Measure-Learn feedback loop (BML) illustrated in figure 3 as core element of the lean startup. The BML acts as a steering wheel to make constant adjustments based on learnings. Thereby Ries criticizes traditional startups creating complex and static plans based on a lot of assumptions beforehand. Consequently, Ries suggests startups to enter the first phase, build, as quickly as possible with a minimum viable product (MVP) which is described below. As a second step, customer reactions to the MVP are measured. Finally, the gathered data help to learn from customers. Based on this data, the hypotheses made in the beginning are tested. Based on metric which ideally have been defined up front, the entrepreneur may need to pivot or continue. By aiming to minimize the total time of the BML itself, a startup reduces the risk of wasting resources and inefficiency (Mueller, R., Thoring, K., 2012, p.183; Ries, E., 2011, pp.32, 91-92).
@@ -68,9 +69,11 @@ Ries identifies the Build-Measure-Learn feedback loop (BML) illustrated in figur
 *Source: Own illustration, according to Ries, E., 2011, p.81*
 
 
+
 *Minimum Viable Product*
 
 A MVP is a version of a product created with a minimum amount of effort and developed time. In practice, a MVP can be a minimal landing page or an early working prototype already. Although the MVP lacks many features, it is a product created in the fastest and most efficient way to enter the BML feedback loop: The MVP is presented to early adopters in order to learn from their reactions and test the fundamental hypotheses as described above. Building a MVP also bears a risk. However, this can be evaluated as rather low in contrast to traditional product development. The latter usually takes a lot of time as it includes a thoughtful incubation phase and aims product perfection before market launch. To sum up, a MVP strives to reduce the risk of investing many resources into a product without having market potential (Mueller, R., Thoring, K., 2012, p.185; Nobel, C., 2011, p.2; Ries, E., 2011, pp.82, 96, 111).
+
 
 *Pivoting*
 
