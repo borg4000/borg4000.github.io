@@ -67,6 +67,7 @@ Ries identifies the Build-Measure-Learn feedback loop (BML) illustrated in figur
 
 *Source: Own illustration, according to Ries, E., 2011, p.81*
 
+
 *Minimum Viable Product*
 
 A MVP is a version of a product created with a minimum amount of effort and developed time. In practice, a MVP can be a minimal landing page or an early working prototype already. Although the MVP lacks many features, it is a product created in the fastest and most efficient way to enter the BML feedback loop: The MVP is presented to early adopters in order to learn from their reactions and test the fundamental hypotheses as described above. Building a MVP also bears a risk. However, this can be evaluated as rather low in contrast to traditional product development. The latter usually takes a lot of time as it includes a thoughtful incubation phase and aims product perfection before market launch. To sum up, a MVP strives to reduce the risk of investing many resources into a product without having market potential (Mueller, R., Thoring, K., 2012, p.185; Nobel, C., 2011, p.2; Ries, E., 2011, pp.82, 96, 111).
@@ -79,7 +80,7 @@ At the end of one feedback loop, the test results may verify or falsify the hypo
 
 Entrepreneurs focus on developing a product that matches the market problem. Only if they have achieved the so-called product-market-fit (PMF), they invest in scaling the company. Dan Olsen has developed the Lean Product Process which is a six-step frame-work to achieve the goal of PMF (Leibson, H., 2018; Mueller, R., Thoring, K., 2012, p.185; Nobel, C., 2011, p.1).
 
-## How the company Dropbox started out lean.
+## How the company Dropbox started out lean
 
 Dropbox is a company founded in Silicon Valley and offers an easy-to-use cloud-based file-sharing tool. In its beginning, the founder Drew Houston could not demonstrate the working software because creating a prototype would have been complex and required many resources. Consequently, Houston faced the challenge that venture capitalists could not imagine Houston’s vision. Finally, he made a video as a MVP demonstrating the technology to primarily target technology early adopters. As reactions of potential customers proved the market potential, investors could be convinced. Finally, the software was built, and Dropbox became a successful company with a current market capitalization of around USD 8 billion (Bloomberg, 2019; Ries, E., 2011, pp.99-101).
 
