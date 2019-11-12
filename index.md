@@ -4,6 +4,12 @@
 
 Startups are a major element in today’s economy and a high number of new companies are being founded each year (Reynolds, P. D., 2016, p.446). Specifically, in the European Union, investments in startups have been increasing since 2013. As figure 1 illustrates, the venture capital investments in European startups have reached an amount of €21 billion in 2018 (Dealroom, 2019, p.7). Thus, the number of startups and small or medium sized enterprises (SME) is three times higher than large corporates in the European Un-ion (Steigertahl, L., Mauer, R., 2018, p.17).
 
+**Figure 1: Venture capital invested in European startups, 2013-2018 (Investments in € billions)**
+
+![Figure1](Figure1.png)
+
+*Source: Own illustration, based on Dealroom, 2019, p.7; Patel, N., 2015*
+
 However, it can be estimated that nine out of ten startups fail. To illustrate this fact in figure 1, 90% of the venture capital investments in Europe are highlighted red. Of all failures, 42% of startups are not successful because their product offering does not serve a market need. In this case, success is defined as the pure survival of the company itself as minimum (CB Insights, 2018, p.5; Griffith, E., 2014; Nobel, C., 2011, p.1; Patel, N., 2015). In general, entrepreneurs are facing an increasing uncertainty. Combined with a non-structured company management, the chance of failure becomes high (Ries, E., 2011, pp.18-19).
 In order to increase the success of startups, Eric Ries has developed the lean startup idea which has been transformed into a global movement in recent years (Blank, S., 2013; Ries, E., 2011, pp.14-17, 274-277). This paper aims to briefly analyze the lean startup methodology in order to answer the following research question:
 
@@ -28,6 +34,13 @@ The process of starting a company can be clustered in four phases: The first pha
 
 According to CB Insights’ report which is based on an analysis of 101 startup post mortems, 42% startups fail because their product does not solve a (large enough) market problem. Companies often invest a lot in producing a product without having enough customers who are willing to buy it. Figure 2 illustrates the top ten reasons why startups fail. Some of them can be linked again with the most popular failure of market demand (CB Insights, 2018, pp.4, 5, 25; Griffith, E., 2014; Patel, N., 2015; Viki, T., 2017).
 
+**Figure 2: Top 10 reasons why startups fail (in % of 101 startup post mortems)**
+
+![Figure2](Figure2.png)
+
+*Source: Own illustration, according to CB Insights, 2018, p.5*
+
+
 ## Why can the lean startup methodology help?
 
 ### Where does lean come from?
@@ -46,7 +59,13 @@ Ries also considers plans and basic assumptions as the main and thereby as the r
 
 *Build-Measure-Learn feedback loop*
 
-Ries identifies the Build-Measure-Learn feedback loop (BML) illustrated in figure 3 as core element of the lean startup. The BML acts as a steering wheel to make constant adjustments based on learnings. Thereby Ries criticizes traditional startups creating complex and static plans based on a lot of assumptions beforehand. Consequently, Ries suggests startups to enter the first phase, build, as quickly as possible with a minimum viable product (MVP) which is described below. As a second step, customer reactions to the MVP are measured. Finally, the gathered data help to learn from customers. Based on this data, the hypotheses made in the beginning are tested. Based on metric which ideally have been defined up front, the entrepreneur may need to pivot or continue. By aiming to minimize the total time of the BML itself, a startup reduces the risk of wasting resources and inefficiency (Mueller, R., Thoring, K., 2012, p.183; Ries, E., 2011, pp.32, 91-82).
+Ries identifies the Build-Measure-Learn feedback loop (BML) illustrated in figure 3 as core element of the lean startup. The BML acts as a steering wheel to make constant adjustments based on learnings. Thereby Ries criticizes traditional startups creating complex and static plans based on a lot of assumptions beforehand. Consequently, Ries suggests startups to enter the first phase, build, as quickly as possible with a minimum viable product (MVP) which is described below. As a second step, customer reactions to the MVP are measured. Finally, the gathered data help to learn from customers. Based on this data, the hypotheses made in the beginning are tested. Based on metric which ideally have been defined up front, the entrepreneur may need to pivot or continue. By aiming to minimize the total time of the BML itself, a startup reduces the risk of wasting resources and inefficiency (Mueller, R., Thoring, K., 2012, p.183; Ries, E., 2011, pp.32, 91-92).
+
+**Figure 3: Build-Measure-Learn feedback loop**
+
+![Figure3](Figure3.png)
+
+*Source: Own illustration, according to Ries, E., 2011, p.81*
 
 *Minimum Viable Product*
 
@@ -70,7 +89,7 @@ To sum up, the lean startup methodology can be described as an agile approach wh
 
 Due to the limited scope, this paper aimed to briefly present the main idea and key principles of the lean startup methodology. An extensive analysis could cover not only the key principles themselves but also the operationalization as well as the scope of application, for example regarding various industries, in a critical and more detailed way.
 
-# Sources
+# References
 
 Blank, S. (2013). Why the Lean Start-Up Changes Everything. Retrieved 12.09.2019 from [https://hbr.org/2013/05/why-the-lean-start-up-changes-everything.](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)
 
@@ -93,6 +112,16 @@ Nobel, C. (2011). Teaching a ‘Lean Startup’ Strategy. Retrieved 30.09.2019 f
 Patel, N. (2015). 90% Of Startups Fail: Here's What You Need To Know About The 10%. Retrieved 02.10.2019 from [https://www.forbes.com/sites/neilpatel/2015/01/16/90-of-startups-will-fail-heres-what-you-need-to-know-about-the-10/#1028a56a6679.](https://www.forbes.com/sites/neilpatel/2015/01/16/90-of-startups-will-fail-heres-what-you-need-to-know-about-the-10/#1028a56a6679) 
 
 Reynolds, P. D. (2016). Start-up Actions and Outcomes: What Entrepreneurs Do to Reach Profitability. Foundations and Trends in Entrepreneurship.12 (6), 443-559. DOI: 10.1561/0300000071.
+
+Ries, E. (2011). The LEAN STARTUP: How Today’s Entrepreneurs Use Continuous Inno-vation to Create Radically Successful Businesses. New York: Crown Publishing Group, Random House.
+
+Rasmussen, E. S., Tanev, S. (2015). The Emergence of the Lean Global Startup as a New Type of Firm. Technology Innovation Management Review. 5 (11), 12-19.
+
+Steigertahl, L., Mauer, R. (2018). EU Startup Monitor. Retrieved 02.10.2019 from [http://startupmonitor.eu/EU-Startup-Monitor-2018-Report-WEB.pdf.](http://startupmonitor.eu/EU-Startup-Monitor-2018-Report-WEB.pdf) 
+
+Van Gelderen, M., Thurik, R., Bosma, N. (2005). Success and Risk Factors in the Pre-Startup Phase. Small Business Economics. 24 (1), 365-380. DOI: 10.1007/s11187-004-6994-6.
+
+Viki, T. (2017). Lean Startup is dead – Long live lean startup. Retrieved 30.09.2019 from [https://www.forbes.com/sites/tendayiviki/2017/03/19/lean-startup-is-dead-long-live-lean-startup/.](https://www.forbes.com/sites/tendayiviki/2017/03/19/lean-startup-is-dead-long-live-lean-startup/) 
 
 ## Concluding remarks
 
