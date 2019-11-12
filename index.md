@@ -11,7 +11,7 @@ In order to increase the success of startups, Eric Ries has developed the lean s
 
 To derive an answer, the paper is structured in four parts: After the introductory chapter, the second part explains startups in general and common reasons for failure. The third chapter can be characterized as the main part as it is about the lean startup methodology and its approach to reduce the risks of starting a company. Finally, the fourth chapter summarizes the results and assesses the research.
 
-![Leanoffice](Pic 01.jpg)
+![Leanoffice](Pic01.jpg)
 
 
 ## Startup
