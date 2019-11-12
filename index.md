@@ -90,6 +90,8 @@ To sum up, the lean startup methodology can be described as an agile approach wh
 
 Due to the limited scope, this paper aimed to briefly present the main idea and key principles of the lean startup methodology. An extensive analysis could cover not only the key principles themselves but also the operationalization as well as the scope of application, for example regarding various industries, in a critical and more detailed way.
 
+*This text has 1,632 words without references.*
+
 # References
 
 Blank, S. (2013). Why the Lean Start-Up Changes Everything. Retrieved 12.09.2019 from [https://hbr.org/2013/05/why-the-lean-start-up-changes-everything.](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)
